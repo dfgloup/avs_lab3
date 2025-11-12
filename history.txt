@@ -1,0 +1,24 @@
+* 7c74d4a Добавлен файл version.txt в ветке release
+*   a922bb8 Разрешен конфликт между main и feature2
+|\  
+| * 90399c1 feature2 change
+* |   3166b27 Разрешен конфликт между main и feature1
+|\ \  
+| * | 4585652 feature1 change
+| |/  
+| | *   e3c6818 Конфликт при слиянии разрешен
+| | |\  
+| |_|/  
+|/| |   
+* | | 395117b Добавлена новая строка в secrets.txt
+* | | 9ddd4e3 Добавлена строка в secrets.txt
+|/ /  
+| * 87958f0 Сохранено различие между коммитами
+| * 244c49e Добавлена строка 'теормин' в secrets.txt в ветке hf_tests
+|/  
+* 7ddfdb3 add secrets.txt 5
+* 546015c add secrets.txt 4
+* aa40c5f add secrets.txt 3
+* defb41a add secrets.txt 2
+* fe6b6eb add secrets.txt 1
+* de07beb init
